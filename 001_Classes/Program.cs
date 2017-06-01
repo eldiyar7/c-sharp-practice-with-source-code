@@ -4,7 +4,7 @@
 
 namespace _001_Classes
 {
-    // 'Customer' class is declated.
+    // 'Customer' class is declared.
     // Inside the class body, field type of string and custom method is created.
 
     class Customer
